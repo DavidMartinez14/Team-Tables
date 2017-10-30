@@ -1,10 +1,31 @@
-body{NOTDavid.]ASDI
+body{
 text-align: center;
+background-color: #2143F9
 }
+
 table {
   margin-left: auto;
   margin-right: auto;
-    max-width:100%;
+  max-width:100%;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, td, th {
+  border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    height: 50px;
+    background-color: #000245;
+    color: #000000;
+}
+
+tr:nth-child(even){background-color: #F92332}
+
+th, td {
+    padding: 15px;
 }
 Caption {
   font-size: 24px;
