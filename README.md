@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<tittle></tittle>
+<tittle>HTML Tables</tittle>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="main.css">
 </head>
