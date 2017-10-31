@@ -14,7 +14,8 @@
              <th>Team</th>
              <th>Opponent</th>
              <th>Location</th>
-             <th>Time</th>          </tr>
+             <th>Time</th>          
+             </tr>
           </thead>
           <tbody>
           <tr>
